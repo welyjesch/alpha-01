@@ -12,6 +12,8 @@
     "vite": "^8.0.10"
   },
   "dependencies": {
+    "@capacitor/cli": "^5.7.8",
+    "@capacitor/core": "^5.7.8",
     "kaplay": "^3001.0.19"
   }
 }
